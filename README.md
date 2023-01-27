@@ -1,4 +1,4 @@
-![Profile Visits](https://komarev.com/ghpvc/?username=brookslach&color=black)
+![Profile Visits](https://komarev.com/ghpvc/?username=brookslach&color=151515)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=brookslach&show_icons=true&theme=dark)
 
